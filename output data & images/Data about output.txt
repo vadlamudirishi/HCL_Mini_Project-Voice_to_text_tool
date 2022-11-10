@@ -1,0 +1,2 @@
+Turn off enable javascript source maps and enable css source maps to avoid unnecessary errors.
+I found these in settings in inspect.
